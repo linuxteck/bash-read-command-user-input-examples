@@ -28,7 +28,7 @@ If you remember just this:
 
 > Interactive Bash script using the `read` command
 
-![Preview](https://raw.githubusercontent.com/linuxteck/bash-read/main/read-preview.png)
+![Preview](https://github.com/linuxteck/bash-read-command-user-input-examples/blob/main/bash-7.png)
 
 ---
 
